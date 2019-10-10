@@ -1,7 +1,9 @@
 import React from 'react';
 
-import './styles/Badge.css';
+import './styles/Badge.css'; // aqui no se esta guardando en una variable o referencia ... react sabe como insertarlo en nuestra aplicacion
 import confLogo from '../images/badge-header.svg';
+
+//Como atributo de contenedores debe ser className porque puede generar conflicto con class del componente
 
 class Badge extends React.Component {
   render() {
@@ -18,13 +20,13 @@ class Badge extends React.Component {
             alt="Avatar"
           />
           <h1>
-            Richard <br /> Kaufman
+            Jorge <br /> Vera
           </h1>
         </div>
 
         <div className="Badge__section-info">
           <h3>Frontend Engineer</h3>
-          <div>@sparragus</div>
+          <div>@jveraa</div>
         </div>
 
         <div className="Badge__footer">#platziconf</div>
