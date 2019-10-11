@@ -17,3 +17,7 @@
   width: 80px;
   height: 80px;
 }
+
+.BadgesListItem__twitter {
+  color: rgb(29, 4, 247);
+}
