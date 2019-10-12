@@ -47,7 +47,7 @@
     },
     {
       "firstName": "Richard",
-      "lastName": "Kaufman",
+      "lastName": "Kaufman example",
       "email": "richardbkaufman@gmail.com",
       "jobTitle": "Frontend Engineer",
       "twitter": "sparragus",
@@ -63,7 +63,7 @@
     },
     {
       "firstName": "Snoopy",
-      "lastName": "Kaufman",
+      "lastName": "Escalante",
       "email": "snoopy@example.com",
       "jobTitle": "Super Dog",
       "twitter": "snoopysuperdog",
